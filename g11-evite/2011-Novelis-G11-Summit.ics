@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+BEGIN:VEVENT
+DTSTART:20110615T090000
+DTEND:20110618T130000
+LOCATION;ENCODING=QUOTED-PRINTABLE:The Cloister at Sea Island Georgia
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:Please join the Novelis executive team in forming the 2011 G11 Summit at The Cloister on Sea Island, Georgia. This summit will be the premiere place to share ideas and network with colleagues.
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Novelis 2011 G11 Summit
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR

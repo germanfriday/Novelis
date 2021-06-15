@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+X-WR-CALNAME:Novelis 2012 Lago di Como
+METHOD:PUBLISH
+PRODID:-//Apple Inc.//iCal 5.0.2//EN
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;VALUE=DATE:20120702
+UID:F67D8642-8B6C-45A8-8E89-AA2391235BF6
+DTSTAMP:20120404T011941Z
+LOCATION:Casta Diva Resort & Spa\nVia Caronti\, 69\n22020 - Blevio (CO)\
+ nItaly
+DESCRIPTION:Please join the Novelis Executive Team in beautiful Lago di 
+ Como\, Italia! The spectacular vistas of Lake Como are an excellent back
+ drop to once more come together as a group and expand our relationships.
+ 
+URL;VALUE=URI:www.castadivaresort.com
+SEQUENCE:8
+SUMMARY:Novelis 2012 Lago di Como
+DTSTART;VALUE=DATE:20120627
+CREATED:20120404T011755Z
+END:VEVENT
+END:VCALENDAR
